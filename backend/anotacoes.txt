@@ -1,0 +1,9 @@
+1 - O projeto comecou com a criacao da pasta backend (mkdir backend);
+  1.1 - Dentro dessa pasta rodado o codigo yarn init -y
+2 - Dependencia instalada: yarn add express
+                                    mongoose
+                                    axios
+3 - Dependencia de Desenvolvedor instalada: yarn add nodemon -D
+4 - Criado o script dev para para startar o servidor
+
+Aula pausada em 01:02:18
