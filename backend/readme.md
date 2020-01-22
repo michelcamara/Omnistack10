@@ -1,10 +1,12 @@
+<img  alt="Node.js" src="./img/node.js.png" height="300px" width=auto/>
+
 # Back-end - Node.js
 A estrutura lógica do projeto foi implementado com a tecnologia Node.js, mais as bibliotecas suplementares externas:
   1. Express.
   2. Mongoose.
   3. Axios.
   4. Nodemon.
-Foi posto em prática algumas técnicas atuais para desenvolvimento, por exemplo, Arrow Function, Controller, Model, reutilização de código como componente, etc.
+<br/>Foi posto em prática algumas técnicas atuais para desenvolvimento, por exemplo, Arrow Function, Controller, Model, reutilização de código como componente, etc.
 
 <img  alt="Coleção de imagens Back-end" src="./img/devScreen.png"/>
 
