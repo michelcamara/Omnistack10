@@ -1,0 +1,11 @@
+1- Projeto criado atraves do script: yarn create react-app web
+2- Rodando Projeto: yarn start
+3- Conceitos principais do Ract:
+    Componente - Uma funçao que retorna algum conteudo HTML/CSS/JS.
+    Propriedade - Informacoes que um Componente PAI passa para o Componente filho. 
+    Estado - Uma informacao que o componente vai manipular
+4- Conceitos:
+   Fragments (<></>) 
+5- Usado a fonte Roboto da google
+
+aula pausade em: 00:59:18
