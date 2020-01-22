@@ -40,6 +40,7 @@ module.exports = {
       });
     }
     return response.json(dev);
-  }
+  },
+
   //Desfio - criar o update e o destroy.
 };
