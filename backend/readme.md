@@ -1,4 +1,3 @@
-<img  alt="Node.js" src="./img/node.js.png"/>
 # Back-end - Node.js
 A estrutura lógica do projeto foi implementado com a tecnologia Node.js, mais as bibliotecas suplementares externas:
   1. Express.
