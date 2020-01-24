@@ -6,7 +6,7 @@ Essa aplicaçáo web foi construida através de um script, próprio do React, co
 <img  alt="Tela do modulo web" src="./img/codWeb.png"/>
 
 ## Responsivo 
-Este sistema web é RESPONSIVO! ou seja, se adequada em diferente tamanhos de telas.
-<span>Telas pequenas</span><img  src="./imgs/SmallScreen.png" width="300px" height="300px"/><br/>
-<span>Telas médias</span><img  src="./imgs/MediumScreen.png" width="300px" height="300px"/><br/>
-<span>Telas grandes</span><img  src="./imgs/devWeb.png" width="300px" height="300px"/><br/>
+Este sistema web é RESPONSIVO! ou seja, se adequada em diferente tamanhos de telas.<br/>
+### Telas pequenas<br><img  src="./img/SmallScreens.png"/><br/>
+### Telas médias<img  src="./img/MediumScreens.png" /><br/>
+### Telas grandes<img  src="./img/devWeb.png" /><br/>
