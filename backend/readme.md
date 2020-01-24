@@ -1,5 +1,5 @@
-<img  alt="Node.js" src="./img/node.js.png" height="300px" width=auto/>
-# Back-end - Node.js
+<img  alt="Node.js" src="./img/node.js.png" height="300px" width=auto/><br>
+# Back-end Node.js
 A estrutura lógica do projeto foi implementado com a tecnologia Node.js, mais as bibliotecas suplementares externas:
   1. Express.
   2. Mongoose.
