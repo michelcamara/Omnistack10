@@ -7,6 +7,6 @@ Essa aplicaçáo web foi construida através de um script, próprio do React, co
 
 ## Responsivo 
 Este sistema web é RESPONSIVO! ou seja, se adequada em diferente tamanhos de telas.<br/>
-<span>Telas pequenas</span><img  src="./img/SmallScreens.png" /><br/>
-<span>Telas médias</span><img  src="./img/MediumScreens.png" /><br/>
-<span>Telas grandes</span><img  src="./img/devWeb.png" /><br/>
+### Telas pequenas<br><img  src="./img/SmallScreens.png" height="30%"/><br/>
+### Telas médias<img  src="./img/MediumScreens.png" /><br/>
+### Telas grandes<img  src="./img/devWeb.png" /><br/>
