@@ -7,5 +7,6 @@
 4- Conceitos:
    Fragments (<></>) 
 5- Usado a fonte Roboto da google
+6- Dependencias: axios
 
 aula pausade em: 01:19:04
