@@ -1,0 +1,17 @@
+1 -  Projeto criado com o Expo:(Instalacao) yarn global add expo-cli
+2 -  (Mac e Linux) Configuracao de arquivo de ambiente: export PATH="$(yarn global bin):$PATH"
+      https://legacy.yarnpkg.com/lang/en/docs/cli/global/
+ 
+  2.1 - Acessar a pasta do usuario no terminal: cd ~ 
+                                                code .zshrc
+                                                adicionar https://legacy.yarnpkg.com/lang/en/docs/cli/global/
+3 - Criando projeto: expo init nomeDoProjeto
+4 - Rodando projeto: yarn start
+5 - Instalacao dependencia: yarn add react-navigation
+                            + com Expo: expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+                             yarn add react-navigation-stack 
+                             @react-native-community/masked-view
+                          +com Expo: expo install react-native-maps
+                          +com Expo: expo install expo-location
+                          +com Expo: expo install react-native-webview
+                          axios
