@@ -9,7 +9,7 @@ const Routes = createAppContainer(
     Main:{
       screen: Main,
       navigationOptions:{
-        title: 'DevRadar'
+        title: 'Finder Devs'
       },
     },
     Profile:{
@@ -24,7 +24,7 @@ const Routes = createAppContainer(
       headerTintColor: '#fff',
       headerBackTitleVisible: false,
       headerStyle:{
-        backgroundColor: '#7D40E7'
+        backgroundColor: '#1d91de'
       },
     }
   })

@@ -1,7 +1,13 @@
 import React from 'react';
-import { StatusBar } from 'react-native';
+import { StatusBar, YellowBox } from 'react-native';
 
 import Routes from  './src/routes';
+
+//Remove os avisos de tarja amarela e que comecem que o texto contido na array
+YellowBox.ignoreWarnings([
+  'Unrecognized WebSocket',
+  'Possible Unhandled Promise Rejection',
+]);
 
 export default function App() {
   return (
