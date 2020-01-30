@@ -2,7 +2,7 @@
 # Front-end ReactJS
 "O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais. É utilizado nos sites da Netflix, Imgur, Feedly, Airbnb, SeatGeek, HelloSign, Walmart e outros." - Wikipédia
 
-Essa aplicaçáo web foi construida através de um script, próprio do React, com o propósito de deixar o sistema pronto para uso, automaticamente sao instaladas bibliotecas, mas especificamente nesse projeto, tive que usar o Axios para consumir os dados da API que criei no módulo back-end.
+Essa aplicaçáo web foi construida através de um script, próprio do React, com o propósito de deixar o sistema pronto para uso, automaticamente sao instaladas bibliotecas, mas especificamente nesse projeto, tive que usar o Axios para consumir os dados da API que criei no módulo back-end e Socket.io para comunicaçao com a API do Back-end via web-socket.
 
 <img  alt="Tela do modulo web" src="./img/codWeb.png"/>
 
