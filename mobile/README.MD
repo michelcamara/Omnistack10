@@ -1,4 +1,4 @@
-<img  alt="React-Native" src="./img/React-Native-App.jpg" align="center"/>
+<img  alt="React-Native" src="./imgs/React-Native-App.jpg" align="center"/>
 
 # Front-End Mobile React Native
 
@@ -6,7 +6,7 @@
 
 O aplicativo consiste é um mapa que mostra os desenvolvedores que trabalham com a(s) tecnologia(s) informada(s) pelo usuário no campo de buscar. Esse sistema foi desenvolvido ao auxilio de bibliotecas atuais e bastantes usadas no mercado.
 
-<img  alt="Tela do modulo web" src="./img/dualScreen.png" align="center"/>
+<img  alt="Tela do modulo web" src="./imgs/dualScreen.png" align="center" height="550px"/>
 
 ## Bibliotecas Utilizadas
 1. React Navigation
