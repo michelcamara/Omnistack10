@@ -30,7 +30,7 @@ Leia mais sobre este módulo. [Clique aqui](https://github.com/michelcamara/Omni
 
 Essa aplicaçáo web foi construida através de um script, próprio do React, com o propósito de deixar o sistema pronto para uso, automaticamente sao instaladas bibliotecas, mas especificamente nesse projeto, tive que usar o Axios para consumir os dados da API que criei no módulo back-end.
 
-<img  alt="Tela do modulo web" src="./img/DevWeb.png"/>
+<img  alt="Tela do modulo web" src="./img/devWeb.png"/>
 
 Leia mais sobre este módulo. [Clique aqui](https://github.com/michelcamara/Omnistack10/tree/master/web)
 
